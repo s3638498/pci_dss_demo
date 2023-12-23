@@ -16,5 +16,5 @@ In `.env` please specifiy the
 - port: 5432
 
 endpoint = 
-- http://{server}:{port}/tokenise
-- http://{server}:{port}/detokenise
+- `http://{server}:{port}/tokenise`
+- `http://{server}:{port}/detokenise`
