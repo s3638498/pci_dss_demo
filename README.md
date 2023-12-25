@@ -1,8 +1,10 @@
-A demo application for PCI DSS requirement
+A demo application for PCI DSS requirement using Google Cloud Key Management 
 Tech stack use:
 - `nodejs`
 - `typescript`
 - `express JS`
+- `Postgres`
+- `Google Cloud KMS`
 
 In `.env` please specifiy the 
 - GOOGLE_APPLICATION_CREDENTIALS
